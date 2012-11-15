@@ -1,0 +1,7 @@
+- Crear Base de datos symfony
+- Instalar base de datos (symfony.sql)
+- Cambiar parametros de conexion a la base de datos en Symfony\app\config\parameters.yml
+- Copiar carpeta Symfony al www o html _public
+- Puedes acceder asi http://localhost/blog-symfony/web/app_dev.php/1 para ir a un blog en especial (Actualmente solo existe un blog en bd, a medida que insertes varios podras verlos cambiando el 1 por el id del blog en la base de datos)
+- http://localhost/blog-symfony/web/app_dev.php/ aqui accedes al root
+- Ejemplo guiado por este articulo http://tutorial.symblog.co.uk/docs/configuration-and-templating.html
